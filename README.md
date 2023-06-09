@@ -13,3 +13,6 @@ As a first timer, I was able to try my hands on this guided excel project, all t
 3. Purchase by Region:Customers from North America purchased more bike than customers from Europe and the Pacific
 4. Purchase by Education: When compared to the 3.23% for the income percentage of bike purchased by Partial high school certificate holders, Bachelor degree holders account for the highest income percentage of bike purchase at 36.62%.
 5. Commute Distance:The line chart shows that customers with commute distance of 0-1 miles has the higest rate of bike purchase, followed by customers with commute distance of 2-5miles
+
+## Bike Purchase Dashboard
+![image](https://github.com/Stellannoka/Guided-Excel-Project/assets/131279331/7688884d-ba35-45c4-923f-91e74313be5b)
