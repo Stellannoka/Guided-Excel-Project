@@ -1,12 +1,12 @@
 # Guided-Excel-Project
 As a first timer, I was able to try my hands on this guided excel project, all thanks to Alex Freberg for for the dataset and the step by step guid on how to achieve this Interactive Bike Purchase Dashboard.
 
-The following operations were carried out:
+## The following operations were carried out:
 1. Data cleaning and transformation
 2. Data analysis 
 3. Data visualization
 
-KPIs
+# KPIs
 
 1. Average Income per Purchase: As represented in the bar chart, married couples with the highest income purchased the most bikes  
 2. Purchase by Age Bracket:The line chart shows that customers within the age bracket of 25-30 purchased more bikes than customers within age limit of 30 and above (30-89)
